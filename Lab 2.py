@@ -48,4 +48,3 @@
 # #pop from list - remove an item from a list while passing on the value.
 # x = list.pop(0)
 # print(x)
-
